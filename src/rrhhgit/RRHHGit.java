@@ -16,7 +16,7 @@ public class RRHHGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println ("¡No puede ser tan dificil!");
+        System.out.println ("¡No puede ser tan dificil! ¿O qué?");
     }
     
 }
